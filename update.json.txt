@@ -1,0 +1,14 @@
+{
+  "appId": "NKSOFTWARE",
+  "enabled": true,
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK_QLVH/releases/latest/download/NKSOFTWARE.zip",
+  "releasePageUrl": "https://github.com/levanminhbkhcm/NK_QLVH/releases/latest",
+  "assetName": "NKSOFTWARE.zip",
+  "installerType": "zip",
+  "releaseName": "NK SOFTWARE 1.0.0",
+  "releaseNotes": "Khoi tao chuc nang tu dong cap nhat phan mem.",
+  "restart": {
+    "executable": "NKSOFTWARE.exe"
+  }
+}
